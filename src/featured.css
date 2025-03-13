@@ -5,7 +5,8 @@ h2 {
 }
 
 .featured-cont {padding-top: 30px;
-    margin-block: 50px;
+    margin-top: 180px;
+    margin-bottom: 50px;
 }
 
 @media screen and (max-width: 600px) {
